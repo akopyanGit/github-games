@@ -7,3 +7,8 @@ You can play the game at: http://githubschool.github.io/github-games/
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+### Instructions
+
+- Press space to start
+- Use the arrow keys to move the game piece
